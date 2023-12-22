@@ -13,6 +13,8 @@
 		0C074B3F2B31AFCB0019DE2A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C074B3E2B31AFCB0019DE2A /* Preview Assets.xcassets */; };
 		0C074B412B31AFCB0019DE2A /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C074B402B31AFCB0019DE2A /* Persistence.swift */; };
 		0C074B442B31AFCB0019DE2A /* NANO2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0C074B422B31AFCB0019DE2A /* NANO2.xcdatamodeld */; };
+		2910E0AA2B345B7500B0E8D2 /* landingpage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2910E0A92B345B7500B0E8D2 /* landingpage.swift */; };
+		29530B692B346EE300F3B33D /* rectangleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29530B682B346EE300F3B33D /* rectangleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		0C074B3E2B31AFCB0019DE2A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0C074B402B31AFCB0019DE2A /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		0C074B432B31AFCB0019DE2A /* NANO2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = NANO2.xcdatamodel; sourceTree = "<group>"; };
+		2910E0A92B345B7500B0E8D2 /* landingpage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = landingpage.swift; sourceTree = "<group>"; };
+		29530B682B346EE300F3B33D /* rectangleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rectangleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				0C074B402B31AFCB0019DE2A /* Persistence.swift */,
 				0C074B422B31AFCB0019DE2A /* NANO2.xcdatamodeld */,
 				0C074B3D2B31AFCB0019DE2A /* Preview Content */,
+				2910E0A92B345B7500B0E8D2 /* landingpage.swift */,
+				29530B682B346EE300F3B33D /* rectangleView.swift */,
 			);
 			path = NANO2;
 			sourceTree = "<group>";
@@ -147,6 +153,8 @@
 				0C074B412B31AFCB0019DE2A /* Persistence.swift in Sources */,
 				0C074B3A2B31AFCA0019DE2A /* ContentView.swift in Sources */,
 				0C074B382B31AFCA0019DE2A /* NANO2App.swift in Sources */,
+				29530B692B346EE300F3B33D /* rectangleView.swift in Sources */,
+				2910E0AA2B345B7500B0E8D2 /* landingpage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
